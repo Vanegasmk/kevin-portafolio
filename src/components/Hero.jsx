@@ -33,7 +33,7 @@ export default function Hero() {
               Ver proyectos <ArrowRight size={16} />
             </a>
             <a
-              href="/CV_Kevin_Vanegas_Medina.pdf"
+              href="cv_kevin_vanegas_medina.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="focus-ring inline-flex items-center gap-2 bg-transparent border border-base-600 hover:border-accent-400 text-slate-200 font-medium text-sm px-5 py-3 rounded-lg transition-colors"
