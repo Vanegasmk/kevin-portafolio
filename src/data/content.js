@@ -50,21 +50,21 @@ export const projects = [
   },
   {
     title: "Sistema de Gestión",
-    tags: ["C#", ".NET", "SQL Server"],
+    tags: ["C#", ".NET", "SQL Server", "En proceso"],
     description:
       "Aplicación web para la gestión de usuarios, roles, productos y reportes. Arquitectura en capas con Entity Framework Core.",
     kind: "dashboard",
   },
   {
     title: "Laboratorio de Active Directory",
-    tags: ["Windows Server"],
+    tags: ["Windows Server", "En Proceso"],
     description:
       "Implementación de dominio con DNS, DHCP, GPO y administración de usuarios en un laboratorio virtualizado con VMware.",
     kind: "network",
   },
   {
     title: "Análisis de Incidentes",
-    tags: ["SIEM", "Investigación", "Respuesta"],
+    tags: ["SIEM", "Investigación", "Respuesta", "En proceso"],
     description:
       "Caso práctico de análisis e investigación de un incidente de seguridad siguiendo el ciclo de respuesta a incidentes.",
     kind: "pipeline",
